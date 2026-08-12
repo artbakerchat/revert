@@ -14,3 +14,5 @@ Degradation
 
 0:03 구간에서 단어 발음이 뭉개지고 기계음 노이즈가 들리는 반면,
 전체적으로 속도와 억양이 자연스럽고 깔끔합니다.
+
+면역 반응과 염증을 켜는(활성화하는) 시그널 물질의 통칭은 사이토카인(Cytokines), 그중에서도 염증성 사이토카인(Pro-inflammatory cytokines) 및 인터류킨(Interleukins)입니다.
