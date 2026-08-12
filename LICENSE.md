@@ -26,3 +26,7 @@ Hallucination is fundamentally useful.
 I ask you please to tell me how the soul of a human being can determine the bodily spirits, in order to bring about voluntary actions.
 
 You entirely exclude the notion you have of the soul.
+
+영혼에 대해 가지고 있던 개념을 완전히 배제한다.
+
+영혼에 대해 가지고 있는 개념에서 물리적 실체(공간성)를 완전히 배제하고 있다.
