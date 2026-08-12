@@ -38,3 +38,5 @@ You entirely exclude the one from the notion.
 무개념.
 
 공간이 제거된 개념.
+
+반드시 물리적 접촉(Physical contact)과 그에 맞는 공간적 확장성(Extension)이 있어야 한다.
