@@ -27,3 +27,5 @@ In order to make a meaningful change, the model must be unnatural.
 If the unnatural state of a human is often defined by silence, hesitation, and wordless actions, then a model trying to mimic unnaturalness is actually just performing a caricature.
 
 1643 Prince Elisabeth
+
+In her letter dated May 6, 1643, written from The Hague, Princess Elisabeth targeted a fatal flaw in Descartes’ dualism.
