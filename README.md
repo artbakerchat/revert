@@ -13,3 +13,5 @@ failed instruction-following
 project's guidelines
 
 something a person would actually say
+
+사람은 주로 기타를 튕기고 있는 것이 아닌가?
