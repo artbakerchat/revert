@@ -7,3 +7,5 @@ Hallucinations and false premise acceptance are objective issues.
 
 Degradation
 성능 저하
+
+실제 사람처럼 오디오의 미세한 억양, 호흡, 잡음, 기계적인 틱(Pop/Crack) 소리를 완벽히 들어내지 못하고 텍스트 정보만으로 그럴듯한 거짓 추론(Hallucination)을 내놓을 수 있습니다.
