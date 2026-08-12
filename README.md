@@ -15,3 +15,5 @@ project's guidelines
 something a person would actually say
 
 사람은 주로 기타를 튕기고 있는 것이 아닌가?
+
+식물을 창가로 옮기는 사람이 저런 오디오를 만들리가 없다.
