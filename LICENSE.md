@@ -40,3 +40,5 @@ You entirely exclude the one from the notion.
 공간이 제거된 개념.
 
 반드시 물리적 접촉(Physical contact)과 그에 맞는 공간적 확장성(Extension)이 있어야 한다.
+
+만약 AI가 정말로 주체성이 있다고 주장하려면, 공간을 전혀 차지하지 않아야 한다.
