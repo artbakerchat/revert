@@ -21,3 +21,5 @@ something a person would actually say
 식물을 옮기고 있는 것이 아니라 다른 이유가 있는 것이다.
 
 It's the unspoken moments.
+
+In order to make a meaningful change, the model must be unnatural.
