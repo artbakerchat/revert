@@ -25,3 +25,5 @@ It's the unspoken moments.
 In order to make a meaningful change, the model must be unnatural.
 
 If the unnatural state of a human is often defined by silence, hesitation, and wordless actions, then a model trying to mimic unnaturalness is actually just performing a caricature.
+
+1643 Prince Elisabeth
