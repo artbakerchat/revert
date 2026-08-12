@@ -11,3 +11,5 @@ I prefer Clip B overall because Clip A fails the utility threshold by accepting 
 
 failed instruction-following
 project's guidelines
+
+something a person would actually say
