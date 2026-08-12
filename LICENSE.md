@@ -20,3 +20,5 @@ Degradation
 Clips are understandable and useful. Move the plant closer to the window.
 
 복잡한 말이나 대화 없이, 손가락으로 기타 줄을 튕겨 소리를 내거나 햇빛을 더 잘 받도록 식물 화분을 창가로 옮기는 단순하고 고요한 행동들이 오히려 사람의 일상에서 가장 자연스러운 순간일 때가 많습니다.
+
+Hallucination is fundamentally useful.
