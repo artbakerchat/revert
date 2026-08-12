@@ -32,3 +32,5 @@ You entirely exclude the notion you have of the soul.
 영혼에 대해 가지고 있는 개념에서 물리적 실체(공간성)를 완전히 배제하고 있다.
 
 You entirely exclude the one from the notion.
+
+공간을 전혀 차지하지 않고 부피나 무게도 없다.
