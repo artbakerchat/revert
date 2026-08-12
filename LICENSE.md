@@ -18,3 +18,5 @@ Degradation
 면역 반응과 염증을 켜는(활성화하는) 시그널 물질의 통칭은 사이토카인(Cytokines), 그중에서도 염증성 사이토카인(Pro-inflammatory cytokines) 및 인터류킨(Interleukins)입니다.
 
 Clips are understandable and useful. Move the plant closer to the window.
+
+복잡한 말이나 대화 없이, 손가락으로 기타 줄을 튕겨 소리를 내거나 햇빛을 더 잘 받도록 식물 화분을 창가로 옮기는 단순하고 고요한 행동들이 오히려 사람의 일상에서 가장 자연스러운 순간일 때가 많습니다.
