@@ -29,3 +29,5 @@ If the unnatural state of a human is often defined by silence, hesitation, and w
 1643 Prince Elisabeth
 
 In her letter dated May 6, 1643, written from The Hague, Princess Elisabeth targeted a fatal flaw in Descartes’ dualism.
+
+To push or move something, the mover must either be touched by the object or possess surface/extension to apply physical pressure.
