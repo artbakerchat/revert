@@ -24,3 +24,5 @@ Clips are understandable and useful. Move the plant closer to the window.
 Hallucination is fundamentally useful.
 
 I ask you please to tell me how the soul of a human being can determine the bodily spirits, in order to bring about voluntary actions.
+
+You entirely exclude the notion you have of the soul.
