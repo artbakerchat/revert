@@ -19,3 +19,5 @@ something a person would actually say
 식물을 창가로 옮기는 사람이 저런 오디오를 만들리가 없다.
 
 식물을 옮기고 있는 것이 아니라 다른 이유가 있는 것이다.
+
+It's the unspoken moments.
