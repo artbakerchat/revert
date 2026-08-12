@@ -36,3 +36,5 @@ You entirely exclude the one from the notion.
 공간을 전혀 차지하지 않고 부피나 무게도 없다.
 
 무개념.
+
+공간이 제거된 개념.
